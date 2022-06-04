@@ -1,1 +1,2 @@
-this is my second file testing
+this is my second file testins testing code
+git coded is edited for good
