@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+this is a text file 
+thus a test code 
+this a sample code for stack
+this is just testing it `  
